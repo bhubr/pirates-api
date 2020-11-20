@@ -8,7 +8,9 @@
       "yearBirth": 1682,
       "nickname": "Black Bart",
       "nativeCountry": "Wales",
-      "description": ""
+      "search": "30 sailors",
+      "ships": ["Royal Rover", "Good Fortune", "Royal Fortune", "Ranger", "Little Ranger"],
+      "advantages": ["profit-sharing", "good atmosphere"]
     },
     {
       "id": 2,
@@ -18,7 +20,9 @@
       "yearBirth": 1680,
       "nickname": "Blackbeard",
       "nativeCountry": "England",
-      "description": ""
+      "search": "10 strong, courageous sailors",
+      "ships": ["Queen Anne's Revenge", "Adventure"],
+      "advantages": ["testing before hiring", "bonuses"]
     },
     {
       "id": 3,
@@ -28,7 +32,9 @@
       "yearBirth": 1682,
       "nickname": "Calico Jack",
       "nativeCountry": "England",
-      "description": ""
+      "search": "20 sailors (women accepted)",
+      "ships": ["The Kingston", "several vessels"],
+      "advantages": ["bonuses", "profit sharing", "one day off per month", "good atmosphere"]
     },
     {
       "id": 4,
@@ -38,7 +44,9 @@
       "yearBirth": 1680,
       "nickname": "",
       "nativeCountry": "England",
-      "description": ""
+      "search": "20 sailors",
+      "ships": ["Lark", "Ranger", "Ranger"],
+      "advantages": ["profit-sharing", "testing before hiring"]
     },
     {
       "id": 5,
@@ -48,7 +56,9 @@
       "yearBirth": 1685,
       "nickname": "",
       "nativeCountry": "Ireland",
-      "description": ""
+      "search": "20 sailors",
+      "ships": ["The Royal James", "The Fancy", "several vessels"],
+      "advantages": ["testing before hiring", "bonus for every sunken ship"]
     },
     {
       "id": 6,
@@ -58,7 +68,9 @@
       "yearBirth": 1690,
       "nickname": "",
       "nativeCountry": "England",
-      "description": ""
+      "search": "70 sailors",
+      "ships": ["Rebecca", "Fancy", "Rose Pink", "Ranger", "Merry Christmas"],
+      "advantages": ["profit-sharing"]
     },
     {
       "id": 7,
@@ -68,7 +80,9 @@
       "yearBirth": 1659,
       "nickname": "pirate King",
       "nativeCountry": "England",
-      "description": ""
+      "search": "5 sailors",
+      "ships": "",
+      "advantages": ["profit-sharing", "good atmosphere"]
     },
     {
       "id": 8,
@@ -78,7 +92,9 @@
       "yearBirth": 1690,
       "nickname": "",
       "nativeCountry": "Wales",
-      "description": ""
+      "search": "15 sailors.",
+      "ships": ["Frigate Cadogan", "Sloop-O-War Buck", "Sloop-O-War Saint James", "Frigate Royal Rover"],
+      "advantages": ["good atmosphere", "bonus for every sunken ship"]
     },
     {
       "id": 9,
@@ -88,7 +104,9 @@
       "yearBirth": 1690,
       "nickname": "willy Read",
       "nativeCountry": "England",
-      "description": ""
+      "search": "sailor woman",
+      "ships": [],
+      "advantages": ["profit-sharing"]
     },
     {
       "id": 10,
@@ -98,7 +116,9 @@
       "yearBirth": 1689,
       "nickname": "Pirate prince",
       "nativeCountry": "England",
-      "description": ""
+      "search": "25 sailors",
+      "ships": ["Postillion", "Mary Anne", "Sultana", "Whydah Gally"],
+      "advantages": ["good atmosphere"]
     },
     {
       "id": 11,
@@ -108,7 +128,9 @@
       "yearBirth": 1688,
       "nickname": "gentleman pirate",
       "nativeCountry": "Barbados",
-      "description": ""
+      "search": "10 sailors",
+      "ships": ["Revenge", "Royal James"],
+      "advantages": ["profit-sharing", "good atmosphere", "good salary"]
     },
     {
       "id": 12,
@@ -118,7 +140,9 @@
       "yearBirth": 1649,
       "nickname": "rhode island pirate",
       "nativeCountry": "England",
-      "description": ""
+      "search": "2 sailors",
+      "ships": ["Amity"],
+      "advantages": ["testing before hiring"]
     },
     {
       "id": 13,
@@ -128,7 +152,9 @@
       "yearBirth": 1645,
       "nickname": "Captain Kidd",
       "nativeCountry": "Scotland",
-      "description": ""
+      "search": "55 sailors",
+      "ships": ["Blessed William", "Adventure Galley", "Quedagh Merchant", "several others"],
+      "advantages": ["profit-sharing"]
     },
     {
       "id": 14,
@@ -138,7 +164,9 @@
       "yearBirth": 1650,
       "nickname": "",
       "nativeCountry": "French",
-      "description": ""
+      "search": "2 sailors",
+      "ships": [],
+      "advantages": ["good salary"]
     },
     {
       "id": 15,
@@ -148,7 +176,9 @@
       "yearBirth": 1694,
       "nickname": "",
       "nativeCountry": "England",
-      "description": ""
+      "search": "8 sailors",
+      "ships": [],
+      "advantages": ["profit-sharing"]
     }
   ]
 }
